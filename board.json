@@ -20,11 +20,11 @@
                 {
                     "name": "Yu",
                     "code": 260632847,
-                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2592\u2591\u2591\u2591\u2591\u2591\u2591",
-                    "percentage": "56.9%",
-                    "progress": "+82 | -62",
-                    "total": 82,
-                    "extra": 365,
+                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591",
+                    "percentage": "61.1%",
+                    "progress": "+88 | -56",
+                    "total": 88,
+                    "extra": 461,
                     "missing": [
                         [],
                         [],
@@ -37,7 +37,6 @@
                             9
                         ],
                         [
-                            1,
                             6,
                             11
                         ],
@@ -49,9 +48,7 @@
                         ],
                         [
                             3,
-                            4,
                             5,
-                            7,
                             9,
                             10
                         ],
@@ -81,11 +78,9 @@
                             8
                         ],
                         [
-                            1,
                             4,
                             5,
                             6,
-                            7,
                             8
                         ]
                     ],
@@ -111,6 +106,7 @@
                             4,
                             5,
                             6,
+                            7,
                             8,
                             9,
                             10,
@@ -139,6 +135,8 @@
                         [
                             2,
                             3,
+                            7,
+                            8,
                             9
                         ],
                         [
@@ -146,7 +144,8 @@
                             2,
                             3,
                             5,
-                            7
+                            7,
+                            10
                         ],
                         [
                             1,
@@ -156,11 +155,13 @@
                         [
                             1,
                             2,
+                            3,
                             6
                         ],
                         [
                             1,
                             3,
+                            4,
                             6
                         ],
                         [
@@ -180,50 +181,50 @@
                     ],
                     "sets": [
                         [
-                            6,
-                            3,
-                            10,
-                            3,
                             8,
-                            7,
+                            3,
+                            12,
+                            5,
+                            8,
+                            11,
+                            4,
+                            6,
                             4,
                             5,
-                            4,
-                            4,
                             6,
                             4
                         ],
                         [
+                            14,
+                            8,
+                            6,
+                            8,
+                            4,
                             12,
+                            3,
                             6,
-                            6,
+                            3,
+                            2,
                             8,
-                            2,
-                            10,
-                            1,
-                            6,
-                            2,
-                            2,
-                            7,
                             4
                         ],
                         [
-                            6,
+                            7,
                             4,
-                            8,
                             9,
                             9,
-                            2,
+                            11,
+                            4,
                             4,
                             6,
                             0,
-                            7,
+                            8,
                             0,
                             0
                         ],
                         [
                             5,
-                            3,
+                            6,
                             3,
                             6,
                             12,
@@ -232,18 +233,18 @@
                             1,
                             0,
                             6,
-                            0,
+                            1,
                             0
                         ],
                         [
-                            0,
-                            5,
+                            1,
+                            9,
                             7,
                             1,
                             1,
                             0,
-                            1,
-                            1,
+                            5,
+                            4,
                             11,
                             1,
                             0,
@@ -254,12 +255,12 @@
                             2,
                             6,
                             0,
-                            2,
+                            3,
                             0,
-                            2,
+                            5,
                             1,
                             0,
-                            1,
+                            4,
                             0,
                             0
                         ],
@@ -267,10 +268,10 @@
                             6,
                             4,
                             0,
-                            0,
+                            1,
                             0,
                             5,
-                            0,
+                            1,
                             1,
                             0,
                             0,
@@ -280,7 +281,7 @@
                         [
                             2,
                             3,
-                            1,
+                            2,
                             1,
                             0,
                             2,
@@ -295,7 +296,7 @@
                             4,
                             1,
                             4,
-                            1,
+                            2,
                             0,
                             2,
                             0,
@@ -309,7 +310,7 @@
                             3,
                             0,
                             1,
-                            3,
+                            4,
                             0,
                             0,
                             2,
@@ -322,7 +323,7 @@
                         [
                             5,
                             2,
-                            4,
+                            6,
                             0,
                             0,
                             0,
@@ -334,13 +335,13 @@
                             0
                         ],
                         [
-                            0,
+                            1,
                             2,
                             2,
                             0,
                             0,
                             0,
-                            0,
+                            1,
                             0,
                             0,
                             0,
@@ -370,7 +371,7 @@
                             ":carrot:",
                             ":carrot:",
                             ":carrot:",
-                            ":small_orange_diamond:",
+                            ":carrot:",
                             ":carrot:",
                             ":carrot:",
                             ":carrot:",
@@ -402,33 +403,19 @@
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
                             ":carrot:",
-                            ":white_medium_square:",
+                            ":sunflower:",
                             ":white_medium_square:"
                         ],
                         [
-                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
                             ":carrot:",
                             ":carrot:",
                             ":small_orange_diamond:",
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_red_triangle_down:",
-                            ":white_medium_square:"
-                        ],
-                        [
                             ":carrot:",
                             ":carrot:",
                             ":carrot:",
-                            ":small_red_triangle_down:",
-                            ":carrot:",
-                            ":small_red_triangle_down:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_red_triangle_down:",
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
                             ":white_medium_square:"
@@ -436,25 +423,25 @@
                         [
                             ":carrot:",
                             ":carrot:",
-                            ":small_red_triangle_down:",
-                            ":small_red_triangle_down:",
+                            ":carrot:",
                             ":small_red_triangle_down:",
                             ":carrot:",
                             ":small_red_triangle_down:",
+                            ":carrot:",
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
+                            ":carrot:",
                             ":small_red_triangle_down:",
-                            ":white_medium_square:",
                             ":white_medium_square:"
                         ],
                         [
                             ":carrot:",
                             ":carrot:",
-                            ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
                             ":carrot:",
-                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
                             ":small_orange_diamond:",
                             ":small_red_triangle_down:",
                             ":small_red_triangle_down:",
@@ -463,9 +450,23 @@
                         ],
                         [
                             ":carrot:",
-                            ":small_orange_diamond:",
+                            ":carrot:",
                             ":carrot:",
                             ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
+                            ":carrot:",
+                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":carrot:",
+                            ":small_orange_diamond:",
+                            ":carrot:",
+                            ":carrot:",
                             ":small_red_triangle_down:",
                             ":carrot:",
                             ":small_red_triangle_down:",
@@ -504,13 +505,13 @@
                             ":white_medium_square:"
                         ],
                         [
-                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
                             ":carrot:",
                             ":carrot:",
                             ":small_red_triangle_down:",
                             ":small_red_triangle_down:",
                             ":small_red_triangle_down:",
-                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
                             ":small_red_triangle_down:",
                             ":white_medium_square:",
                             ":white_medium_square:",
@@ -518,18 +519,18 @@
                             ":white_medium_square:"
                         ]
                     ],
-                    "tradeable": "+82 | -40",
-                    "percentage trades": "67.2%",
-                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591"
+                    "tradeable": "+87 | -35",
+                    "percentage trades": "71.3%",
+                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2592\u2591\u2591\u2591\u2591"
                 },
                 {
                     "name": "Helena",
                     "code": 823483421,
-                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591",
-                    "percentage": "61.1%",
-                    "progress": "+88 | -56",
-                    "total": 88,
-                    "extra": 636,
+                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2592\u2591\u2591\u2591\u2591\u2591",
+                    "percentage": "63.9%",
+                    "progress": "+92 | -52",
+                    "total": 92,
+                    "extra": 663,
                     "missing": [
                         [],
                         [],
@@ -542,9 +543,7 @@
                         ],
                         [
                             1,
-                            4,
                             6,
-                            8,
                             10,
                             11
                         ],
@@ -583,12 +582,10 @@
                             9
                         ],
                         [
-                            2,
                             5,
                             6
                         ],
                         [
-                            4,
                             6,
                             7,
                             8
@@ -627,6 +624,7 @@
                             3,
                             4,
                             5,
+                            6,
                             7,
                             8,
                             10
@@ -667,7 +665,8 @@
                             6
                         ],
                         [
-                            1
+                            1,
+                            3
                         ],
                         [
                             1,
@@ -683,25 +682,25 @@
                     "sets": [
                         [
                             11,
-                            6,
-                            22,
+                            7,
+                            23,
                             7,
                             4,
-                            12,
+                            14,
                             3,
-                            9,
+                            10,
                             4,
-                            3,
+                            5,
                             2,
                             3
                         ],
                         [
-                            13,
+                            14,
                             6,
                             8,
-                            13,
+                            14,
                             6,
-                            13,
+                            14,
                             1,
                             9,
                             1,
@@ -713,22 +712,22 @@
                             9,
                             8,
                             6,
-                            17,
+                            18,
                             7,
-                            1,
+                            3,
                             8,
                             9,
                             1,
-                            7,
+                            8,
                             0,
                             0
                         ],
                         [
                             9,
-                            4,
                             5,
-                            9,
-                            14,
+                            5,
+                            10,
+                            15,
                             1,
                             1,
                             1,
@@ -739,13 +738,13 @@
                         ],
                         [
                             0,
-                            10,
+                            11,
                             17,
-                            0,
+                            1,
                             1,
                             0,
                             2,
-                            0,
+                            1,
                             14,
                             0,
                             0,
@@ -753,7 +752,7 @@
                         ],
                         [
                             6,
-                            4,
+                            5,
                             12,
                             0,
                             1,
@@ -781,7 +780,7 @@
                         ],
                         [
                             3,
-                            4,
+                            5,
                             1,
                             1,
                             0,
@@ -810,7 +809,7 @@
                         [
                             5,
                             0,
-                            1,
+                            2,
                             1,
                             0,
                             0,
@@ -823,7 +822,7 @@
                         ],
                         [
                             3,
-                            0,
+                            1,
                             5,
                             1,
                             0,
@@ -836,10 +835,10 @@
                             0
                         ],
                         [
-                            2,
+                            3,
                             11,
                             8,
-                            0,
+                            1,
                             1,
                             0,
                             0,
@@ -885,7 +884,7 @@
                             ":rabbit2:",
                             ":rabbit2:",
                             ":rabbit2:",
-                            ":small_blue_diamond:",
+                            ":rabbit2:",
                             ":rabbit2:",
                             ":rabbit2:",
                             ":small_blue_diamond:",
@@ -911,11 +910,11 @@
                             ":small_red_triangle:",
                             ":rabbit2:",
                             ":rabbit2:",
-                            ":small_red_triangle:",
+                            ":small_blue_diamond:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
                             ":rabbit2:",
-                            ":small_red_triangle:",
+                            ":small_blue_diamond:",
                             ":rabbit2:",
                             ":small_red_triangle:",
                             ":small_red_triangle:",
@@ -980,7 +979,7 @@
                         [
                             ":rabbit2:",
                             ":small_red_triangle:",
-                            ":small_blue_diamond:",
+                            ":rabbit2:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
                             ":small_red_triangle:",
@@ -993,7 +992,7 @@
                         ],
                         [
                             ":rabbit2:",
-                            ":small_red_triangle:",
+                            ":small_blue_diamond:",
                             ":rabbit2:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
@@ -1009,7 +1008,7 @@
                             ":rabbit2:",
                             ":rabbit2:",
                             ":rabbit2:",
-                            ":small_red_triangle:",
+                            ":small_blue_diamond:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
                             ":small_red_triangle:",
@@ -1020,9 +1019,9 @@
                             ":hibiscus:"
                         ]
                     ],
-                    "tradeable": "+82 | -40",
-                    "percentage trades": "67.2%",
-                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591"
+                    "tradeable": "+86 | -36",
+                    "percentage trades": "70.5%",
+                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2592\u2591\u2591\u2591\u2591"
                 }
             ],
             "sets": [
