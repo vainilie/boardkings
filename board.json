@@ -1,13 +1,13 @@
 {
     "albums": [
         {
-            "title": "Party Bunns",
-            "date": "March 8th, 2023",
+            "title": "Board Hoppin",
+            "date": "May 31th, 2023",
             "stats": {
                 "sets": 12,
                 "total": 144,
-                "tradeable": 112,
-                "untradeable": 32,
+                "tradeable": 74,
+                "untradeable": 70,
                 "stars": [
                     39,
                     36,
@@ -20,512 +20,546 @@
                 {
                     "name": "Yu",
                     "code": 260632847,
-                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591",
-                    "percentage": "93.8%",
-                    "progress": "+135 | -9",
-                    "total": 135,
-                    "extra": 167,
+                    "bar": "\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591",
+                    "percentage": "14.6%",
+                    "progress": "+21 | -123",
+                    "total": 21,
+                    "extra": 20,
                     "missing": [
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
                         [
+                            1,
                             4,
-                            6
-                        ],
-                        []
-                    ],
-                    "spares": [
-                        [
-                            2,
-                            10,
-                            12
-                        ],
-                        [
-                            3,
-                            4,
-                            8,
                             9,
+                            10,
                             11,
                             12
                         ],
                         [
-                            6,
-                            7,
-                            8,
-                            11
-                        ],
-                        [
-                            6,
+                            1,
+                            3,
+                            4,
+                            5,
                             7,
                             8,
                             9,
-                            10
+                            10,
+                            11,
+                            12
                         ],
                         [
                             2,
-                            4,
+                            5,
                             6,
+                            7,
                             8,
                             9,
-                            10
+                            11
                         ],
                         [
-                            5,
-                            7,
-                            8
-                        ],
-                        [
+                            2,
+                            3,
                             4,
+                            5,
                             6,
+                            7,
                             8
                         ],
                         [
                             1,
-                            3,
                             4,
+                            5,
                             6,
                             7
                         ],
                         [
-                            2,
+                            1,
                             3,
+                            4,
+                            5,
                             6
                         ],
                         [
-                            2
+                            1,
+                            2,
+                            3,
+                            4,
+                            5
                         ],
                         [
                             1,
-                            2,
-                            3
-                        ],
-                        [
                             2,
                             3,
                             4
-                        ]
-                    ],
-                    "sets": [
+                        ],
                         [
                             1,
-                            5,
+                            2
+                        ],
+                        [
                             1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            5,
-                            1,
+                            2,
                             3
                         ],
                         [
                             1,
-                            1,
-                            2,
-                            2,
-                            1,
-                            1,
-                            1,
-                            4,
-                            3,
-                            1,
-                            2,
                             2
                         ],
                         [
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
+                            1
+                        ]
+                    ],
+                    "spares": [
+                        [
                             2,
+                            5,
+                            8
+                        ],
+                        [
                             2,
-                            2,
-                            1,
-                            1,
-                            2,
+                            6
+                        ],
+                        [
+                            10
+                        ],
+                        [
                             1
                         ],
                         [
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            2,
-                            3,
-                            2,
-                            2,
-                            2,
-                            1,
-                            1
-                        ],
-                        [
-                            1,
-                            3,
-                            1,
-                            2,
-                            1,
-                            2,
-                            1,
-                            3,
-                            2,
-                            2,
-                            1,
-                            1
-                        ],
-                        [
-                            1,
-                            1,
-                            1,
-                            1,
-                            3,
-                            1,
-                            2,
-                            2,
-                            1,
-                            1,
-                            2,
-                            1
-                        ],
-                        [
-                            1,
-                            1,
-                            1,
-                            2,
-                            1,
-                            4,
-                            1,
-                            2,
-                            1,
-                            1,
-                            1,
                             2
                         ],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        []
+                    ],
+                    "sets": [
                         [
+                            0,
+                            2,
+                            1,
+                            0,
+                            2,
+                            1,
+                            1,
                             3,
-                            1,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
                             2,
+                            0,
+                            0,
+                            0,
                             2,
-                            1,
-                            2,
-                            2,
-                            1,
-                            1,
-                            1,
-                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
                             0
                         ],
                         [
                             1,
-                            3,
-                            2,
-                            1,
-                            1,
-                            2,
+                            0,
                             1,
                             1,
                             0,
-                            1,
-                            2,
-                            1
-                        ],
-                        [
-                            1,
-                            3,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
+                            0,
+                            0,
+                            0,
+                            0,
                             2,
                             0,
-                            1,
                             0
                         ],
                         [
                             3,
-                            2,
-                            3,
                             0,
-                            1,
                             0,
-                            1,
-                            1,
                             0,
-                            2,
                             0,
-                            1
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
                         ],
                         [
-                            1,
-                            2,
-                            2,
-                            2,
-                            1,
-                            1,
-                            1,
+                            0,
                             2,
                             1,
                             0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
                             1,
-                            1
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
                         ]
                     ],
                     "display": [
                         [
+                            ":small_red_triangle_down:",
+                            ":carrot:",
                             ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
                             ":carrot:",
                             ":small_orange_diamond:",
                             ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
                             ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:"
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":carrot:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":carrot:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:"
                         ],
                         [
                             ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
                             ":small_orange_diamond:",
+                            ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
                             ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":sunflower:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":sunflower:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
-                            ":sunflower:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
-                            ":sunflower:",
-                            ":sunflower:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":white_medium_square:",
-                            ":sunflower:",
-                            ":sunflower:",
-                            ":sunflower:"
-                        ],
-                        [
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
-                            ":white_medium_square:",
-                            ":sunflower:",
+                            ":small_red_triangle_down:",
                             ":white_medium_square:"
                         ],
                         [
                             ":carrot:",
-                            ":carrot:",
-                            ":carrot:",
                             ":small_red_triangle_down:",
-                            ":small_orange_diamond:",
                             ":small_red_triangle_down:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
                             ":white_medium_square:",
-                            ":sunflower:",
                             ":white_medium_square:",
-                            ":sunflower:"
+                            ":white_medium_square:",
+                            ":white_medium_square:"
                         ],
                         [
-                            ":small_orange_diamond:",
-                            ":carrot:",
-                            ":carrot:",
+                            ":small_red_triangle_down:",
                             ":carrot:",
                             ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":small_orange_diamond:",
-                            ":sunflower:",
-                            ":sunflower:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
                             ":white_medium_square:",
                             ":sunflower:",
-                            ":sunflower:"
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":sunflower:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":sunflower:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":sunflower:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_orange_diamond:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle_down:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
                         ]
                     ],
-                    "tradeable": "+110 | -2",
-                    "percentage trades": "98.2%",
-                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2592"
+                    "tradeable": "+17 | -57",
+                    "percentage trades": "23.0%",
+                    "trades bar": "\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591"
                 },
                 {
                     "name": "Helena",
                     "code": 823483421,
-                    "bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591",
-                    "percentage": "81.2%",
-                    "progress": "+117 | -27",
-                    "total": 117,
-                    "extra": 176,
+                    "bar": "\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591",
+                    "percentage": "1.4%",
+                    "progress": "+2 | -142",
+                    "total": 2,
+                    "extra": 0,
                     "missing": [
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
-                        [],
                         [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ],
+                        [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            12
+                        ],
+                        [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ],
+                        [
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
                             7,
                             8
                         ],
                         [
+                            1,
+                            2,
+                            3,
+                            4,
                             5,
                             6,
-                            8
+                            7
                         ],
                         [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
                             6
                         ],
-                        []
-                    ],
-                    "spares": [
-                        [
-                            1,
-                            2,
-                            3,
-                            5,
-                            6,
-                            7,
-                            10,
-                            11
-                        ],
-                        [
-                            3,
-                            4,
-                            6,
-                            7,
-                            8,
-                            10,
-                            11
-                        ],
-                        [
-                            1,
-                            4,
-                            5,
-                            6,
-                            7,
-                            9,
-                            11
-                        ],
                         [
                             1,
                             2,
                             3,
                             4,
-                            5,
-                            7,
-                            8,
-                            10
+                            5
                         ],
                         [
                             1,
@@ -536,382 +570,383 @@
                         [
                             1,
                             2,
-                            3,
-                            5,
-                            6,
-                            9
-                        ],
-                        [
-                            1,
-                            2
-                        ],
-                        [
-                            1,
-                            2,
-                            4,
-                            6,
-                            7
-                        ],
-                        [
-                            1,
                             3
                         ],
                         [
-                            1
+                            1,
+                            2,
+                            3
                         ],
-                        [],
                         [
+                            1,
                             2
+                        ],
+                        [
+                            1
                         ]
+                    ],
+                    "spares": [
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        [],
+                        []
                     ],
                     "sets": [
                         [
-                            3,
-                            3,
-                            3,
-                            1,
-                            2,
-                            5,
-                            2,
-                            1,
-                            1,
-                            2,
-                            2,
-                            1
-                        ],
-                        [
-                            1,
-                            1,
-                            2,
-                            2,
-                            1,
-                            2,
-                            2,
-                            2,
-                            1,
-                            2,
-                            2,
-                            1
-                        ],
-                        [
-                            3,
-                            1,
-                            1,
-                            2,
-                            2,
-                            4,
-                            2,
-                            1,
-                            3,
-                            1,
-                            2,
-                            0
-                        ],
-                        [
-                            6,
-                            2,
-                            5,
-                            5,
-                            3,
-                            1,
-                            3,
-                            4,
-                            1,
-                            2,
                             0,
-                            0
-                        ],
-                        [
-                            4,
-                            2,
-                            6,
-                            3,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            0
-                        ],
-                        [
-                            4,
-                            6,
-                            21,
-                            1,
-                            2,
-                            2,
-                            1,
-                            1,
-                            2,
-                            1,
                             0,
-                            1
-                        ],
-                        [
-                            18,
-                            4,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
                             0,
-                            1,
-                            0
-                        ],
-                        [
-                            5,
-                            5,
-                            1,
-                            3,
-                            1,
-                            2,
-                            2,
-                            1,
-                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
                             0,
                             0,
                             0
                         ],
                         [
-                            6,
-                            1,
-                            3,
-                            1,
-                            1,
-                            1,
+                            0,
+                            0,
+                            0,
                             0,
                             0,
                             1,
                             0,
-                            1,
-                            0
-                        ],
-                        [
-                            6,
-                            1,
-                            1,
-                            1,
                             0,
                             0,
-                            1,
                             0,
-                            1,
-                            1,
                             0,
                             0
                         ],
                         [
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
                             0,
-                            1,
-                            1,
-                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
                             0,
                             0,
                             0
                         ],
                         [
                             1,
-                            2,
-                            1,
-                            1,
-                            1,
-                            1,
-                            1,
                             0,
                             0,
                             0,
                             0,
-                            2
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
                         ]
                     ],
                     "display": [
                         [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:"
-                        ],
-                        [
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":white_medium_square:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":hibiscus:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":white_medium_square:",
-                            ":hibiscus:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":white_medium_square:",
-                            ":hibiscus:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":hibiscus:",
-                            ":white_medium_square:",
-                            ":white_medium_square:",
-                            ":white_medium_square:"
-                        ],
-                        [
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
                             ":small_red_triangle:",
                             ":small_red_triangle:",
-                            ":hibiscus:",
-                            ":white_medium_square:",
-                            ":hibiscus:",
-                            ":white_medium_square:"
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:"
                         ],
                         [
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
                             ":small_red_triangle:",
                             ":small_red_triangle:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
-                            ":hibiscus:",
-                            ":hibiscus:",
-                            ":white_medium_square:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
                             ":white_medium_square:"
                         ],
                         [
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
                             ":small_blue_diamond:",
                             ":small_red_triangle:",
-                            ":small_blue_diamond:",
-                            ":hibiscus:",
-                            ":hibiscus:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
                             ":white_medium_square:",
                             ":white_medium_square:",
                             ":white_medium_square:"
                         ],
                         [
-                            ":small_blue_diamond:",
-                            ":rabbit2:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
-                            ":small_blue_diamond:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
                             ":white_medium_square:",
                             ":white_medium_square:",
                             ":white_medium_square:",
                             ":white_medium_square:",
-                            ":hibiscus:"
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
+                        ],
+                        [
+                            ":small_red_triangle:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:",
+                            ":white_medium_square:"
                         ]
                     ],
-                    "tradeable": "+106 | -6",
-                    "percentage trades": "94.6%",
-                    "trades bar": "\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591"
+                    "tradeable": "+2 | -72",
+                    "percentage trades": "2.7%",
+                    "trades bar": "\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591"
                 }
             ],
             "sets": [
                 {
-                    "title": "Pool Party",
+                    "title": "When in Rome",
                     "cards": [
                         [
                             1,
@@ -976,7 +1011,7 @@
                     ]
                 },
                 {
-                    "title": "Birthday Bunny",
+                    "title": " Deep Dive",
                     "cards": [
                         [
                             1,
@@ -1041,7 +1076,7 @@
                     ]
                 },
                 {
-                    "title": "The Teen Scene",
+                    "title": " Bunnslinger",
                     "cards": [
                         [
                             1,
@@ -1106,7 +1141,7 @@
                     ]
                 },
                 {
-                    "title": "Halloween Fest",
+                    "title": " Safari Adventure",
                     "cards": [
                         [
                             1,
@@ -1151,12 +1186,12 @@
                         [
                             9,
                             3,
-                            true
+                            false
                         ],
                         [
                             10,
                             3,
-                            true
+                            false
                         ],
                         [
                             11,
@@ -1171,7 +1206,7 @@
                     ]
                 },
                 {
-                    "title": "Graduation Bash",
+                    "title": " Criminal Bunns",
                     "cards": [
                         [
                             1,
@@ -1211,17 +1246,17 @@
                         [
                             8,
                             3,
-                            true
+                            false
                         ],
                         [
                             9,
                             3,
-                            true
+                            false
                         ],
                         [
                             10,
                             3,
-                            true
+                            false
                         ],
                         [
                             11,
@@ -1236,7 +1271,7 @@
                     ]
                 },
                 {
-                    "title": "Frat House Vibes",
+                    "title": " Dicetopia",
                     "cards": [
                         [
                             1,
@@ -1271,22 +1306,22 @@
                         [
                             7,
                             3,
-                            true
+                            false
                         ],
                         [
                             8,
                             3,
-                            true
+                            false
                         ],
                         [
                             9,
                             3,
-                            true
+                            false
                         ],
                         [
                             10,
                             4,
-                            true
+                            false
                         ],
                         [
                             11,
@@ -1301,7 +1336,7 @@
                     ]
                 },
                 {
-                    "title": "In The Club",
+                    "title": " Bunny Farm",
                     "cards": [
                         [
                             1,
@@ -1331,82 +1366,17 @@
                         [
                             6,
                             3,
-                            true
+                            false
                         ],
                         [
                             7,
                             3,
-                            true
+                            false
                         ],
                         [
                             8,
                             3,
-                            true
-                        ],
-                        [
-                            9,
-                            4,
-                            true
-                        ],
-                        [
-                            10,
-                            4,
                             false
-                        ],
-                        [
-                            11,
-                            5,
-                            false
-                        ],
-                        [
-                            12,
-                            5,
-                            false
-                        ]
-                    ]
-                },
-                {
-                    "title": "Rockin' The Block",
-                    "cards": [
-                        [
-                            1,
-                            1,
-                            true
-                        ],
-                        [
-                            2,
-                            1,
-                            true
-                        ],
-                        [
-                            3,
-                            2,
-                            true
-                        ],
-                        [
-                            4,
-                            2,
-                            true
-                        ],
-                        [
-                            5,
-                            3,
-                            true
-                        ],
-                        [
-                            6,
-                            3,
-                            true
-                        ],
-                        [
-                            7,
-                            3,
-                            true
-                        ],
-                        [
-                            8,
-                            4,
-                            true
                         ],
                         [
                             9,
@@ -1431,7 +1401,7 @@
                     ]
                 },
                 {
-                    "title": "Business Casual",
+                    "title": " Bunns on Mars",
                     "cards": [
                         [
                             1,
@@ -1440,163 +1410,33 @@
                         ],
                         [
                             2,
-                            2,
-                            true
-                        ],
-                        [
-                            3,
-                            2,
-                            true
-                        ],
-                        [
-                            4,
-                            3,
-                            true
-                        ],
-                        [
-                            5,
-                            3,
-                            true
-                        ],
-                        [
-                            6,
-                            3,
-                            true
-                        ],
-                        [
-                            7,
-                            4,
-                            true
-                        ],
-                        [
-                            8,
-                            4,
-                            true
-                        ],
-                        [
-                            9,
-                            4,
-                            false
-                        ],
-                        [
-                            10,
-                            4,
-                            false
-                        ],
-                        [
-                            11,
-                            5,
-                            false
-                        ],
-                        [
-                            12,
-                            5,
-                            false
-                        ]
-                    ]
-                },
-                {
-                    "title": "Deck The Boards",
-                    "cards": [
-                        [
-                            1,
                             1,
                             true
                         ],
                         [
-                            2,
-                            2,
-                            true
-                        ],
-                        [
                             3,
                             2,
                             true
                         ],
                         [
                             4,
-                            3,
+                            2,
                             true
                         ],
                         [
                             5,
                             3,
-                            true
+                            false
                         ],
                         [
                             6,
                             3,
-                            true
+                            false
                         ],
                         [
                             7,
-                            4,
-                            true
-                        ],
-                        [
-                            8,
-                            4,
-                            true
-                        ],
-                        [
-                            9,
-                            4,
-                            false
-                        ],
-                        [
-                            10,
-                            5,
-                            false
-                        ],
-                        [
-                            11,
-                            5,
-                            false
-                        ],
-                        [
-                            12,
-                            5,
-                            false
-                        ]
-                    ]
-                },
-                {
-                    "title": "Last Roll As Bachelor",
-                    "cards": [
-                        [
-                            1,
-                            2,
-                            true
-                        ],
-                        [
-                            2,
-                            2,
-                            true
-                        ],
-                        [
                             3,
-                            3,
-                            true
-                        ],
-                        [
-                            4,
-                            3,
-                            true
-                        ],
-                        [
-                            5,
-                            3,
-                            true
-                        ],
-                        [
-                            6,
-                            4,
-                            true
-                        ],
-                        [
-                            7,
-                            4,
-                            true
+                            false
                         ],
                         [
                             8,
@@ -1605,6 +1445,201 @@
                         ],
                         [
                             9,
+                            4,
+                            false
+                        ],
+                        [
+                            10,
+                            4,
+                            false
+                        ],
+                        [
+                            11,
+                            5,
+                            false
+                        ],
+                        [
+                            12,
+                            5,
+                            false
+                        ]
+                    ]
+                },
+                {
+                    "title": " Bunny Camp",
+                    "cards": [
+                        [
+                            1,
+                            1,
+                            true
+                        ],
+                        [
+                            2,
+                            2,
+                            true
+                        ],
+                        [
+                            3,
+                            2,
+                            true
+                        ],
+                        [
+                            4,
+                            3,
+                            false
+                        ],
+                        [
+                            5,
+                            3,
+                            false
+                        ],
+                        [
+                            6,
+                            3,
+                            false
+                        ],
+                        [
+                            7,
+                            4,
+                            false
+                        ],
+                        [
+                            8,
+                            4,
+                            false
+                        ],
+                        [
+                            9,
+                            4,
+                            false
+                        ],
+                        [
+                            10,
+                            4,
+                            false
+                        ],
+                        [
+                            11,
+                            5,
+                            false
+                        ],
+                        [
+                            12,
+                            5,
+                            false
+                        ]
+                    ]
+                },
+                {
+                    "title": " Bunny Swamp",
+                    "cards": [
+                        [
+                            1,
+                            1,
+                            true
+                        ],
+                        [
+                            2,
+                            2,
+                            true
+                        ],
+                        [
+                            3,
+                            2,
+                            true
+                        ],
+                        [
+                            4,
+                            3,
+                            false
+                        ],
+                        [
+                            5,
+                            3,
+                            false
+                        ],
+                        [
+                            6,
+                            3,
+                            false
+                        ],
+                        [
+                            7,
+                            4,
+                            false
+                        ],
+                        [
+                            8,
+                            4,
+                            false
+                        ],
+                        [
+                            9,
+                            4,
+                            false
+                        ],
+                        [
+                            10,
+                            5,
+                            false
+                        ],
+                        [
+                            11,
+                            5,
+                            false
+                        ],
+                        [
+                            12,
+                            5,
+                            false
+                        ]
+                    ]
+                },
+                {
+                    "title": " Bunnhalla",
+                    "cards": [
+                        [
+                            1,
+                            2,
+                            true
+                        ],
+                        [
+                            2,
+                            2,
+                            true
+                        ],
+                        [
+                            3,
+                            3,
+                            false
+                        ],
+                        [
+                            4,
+                            3,
+                            false
+                        ],
+                        [
+                            5,
+                            3,
+                            false
+                        ],
+                        [
+                            6,
+                            4,
+                            false
+                        ],
+                        [
+                            7,
+                            4,
+                            false
+                        ],
+                        [
+                            8,
+                            4,
+                            false
+                        ],
+                        [
+                            9,
                             5,
                             false
                         ],
@@ -1626,7 +1661,7 @@
                     ]
                 },
                 {
-                    "title": "To Love & To Roll",
+                    "title": " Circus Tent",
                     "cards": [
                         [
                             1,
@@ -1636,32 +1671,32 @@
                         [
                             2,
                             3,
-                            true
+                            false
                         ],
                         [
                             3,
                             3,
-                            true
+                            false
                         ],
                         [
                             4,
                             3,
-                            true
+                            false
                         ],
                         [
                             5,
                             4,
-                            true
+                            false
                         ],
                         [
                             6,
                             4,
-                            true
+                            false
                         ],
                         [
                             7,
                             4,
-                            true
+                            false
                         ],
                         [
                             8,
